@@ -94,16 +94,16 @@ The dashboard provides insights into tourism performance across Kerala, covering
 ![Overview](Dashboard_Images/Overview.png)
 
 ### District Analysis
-![District Analysis](Dashboard_Images/District Analysis.png)
+![District Analysis](Dashboard_Images/District_Analysis.png)
 
 ### Source Markets
-![Source Markets](Dashboard_Images/Source Markets.png)
+![Source Markets](Dashboard_Images/Source_Markets.png)
 
 ### International Tourism
-![International Tourism](Dashboard_Images/International Tourism.png)
+![International Tourism](Dashboard_Images/International_Tourism.png)
 
 ### Destinations & Trends
-![Destinations & Trends](Dashboard_Images/Destinations Trends.png)
+![Destinations & Trends](Dashboard_Images/Destinations_Trends.png)
 
 ---
 
