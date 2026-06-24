@@ -1,4 +1,4 @@
-# Kerala Tourism Analytics Dashboard
+# Kerala Tourism Analytics Dashboard | Excel | SQL | Power Bi
 
 ## 📌 Project Overview
 
