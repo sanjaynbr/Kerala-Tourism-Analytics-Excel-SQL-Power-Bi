@@ -124,5 +124,5 @@ The dashboard provides insights into tourism performance across Kerala, covering
 
 **Sanjay Nambiar**
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
+- LinkedIn: *https://www.linkedin.com/in/sanjaypnambiar16/*
 - GitHub: https://github.com/sanjaynbr
